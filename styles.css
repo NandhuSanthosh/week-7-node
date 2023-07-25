@@ -1,0 +1,52 @@
+:root{
+    --color: lightblue
+}
+
+
+.row{
+    margin: auto;
+}
+
+.right{
+    background-color: lightblue;
+}
+
+
+.form-container{
+    flex: 1;
+}
+
+
+.pageHeader{
+    padding: 20px 10px;
+}
+.pageHeader > h3{
+    font-size: 18px;
+}
+
+.form-header > h3{
+    margin: 0px;
+    font-size: 25px;
+}
+.form-header > p{
+    font-size: 12px
+}
+
+.fs-form-field{
+    font-size: 14px;
+}
+
+.fw-semi-bold{
+    font-weight: 500
+}
+
+.first-footer{
+    font-size: 12px;
+    font-weight: 500
+}
+
+.form-width{
+    width: min(75%, 500px);
+}
+
+

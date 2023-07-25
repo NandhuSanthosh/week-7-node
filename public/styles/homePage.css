@@ -1,0 +1,75 @@
+ul{
+    list-style-type: none;
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+    color: inherit; 
+}
+a:hover{
+    text-decoration: none;
+    color: inherit
+}
+
+
+.h-60{
+    height: 65%;
+}
+.gap-10{
+    gap: 30px;
+}
+
+nav a{
+    font-weight: 500;
+    color: rgba(97, 97, 97, 0.731);
+    font-size: 14px;
+}
+nav a:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.left{
+    margin-block: auto;
+    padding: 0px;
+}
+
+.left h3{
+    font-size: 38px;
+    font-weight: bolder;
+}
+
+.try-it-button{
+    width: min(80%, 250px);
+}
+
+.hero-section{
+    background-image: url('/images/hero-image4.webp');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center
+}
+
+.icon-size{
+    font-size: 50px;
+    
+}
+
+.tile-heading{
+    font-size: 14px;
+    font-weight: bold;
+}
+.tile-description{
+    font-size: 12px;
+    color: darkgray;
+}
+
+.blue{
+    color: rgba(0, 0, 255, 0.761);
+}
+.red{
+    color: rgba(255, 67, 114, 0.787);
+}
+.yellow{
+    color: rgb(255, 162, 0);
+}
